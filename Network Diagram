@@ -1,0 +1,12 @@
+Client Device
+      │
+      │ WiFi
+      ▼
+Aruba Access Point
+      │
+      │ VLAN 20
+      ▼
+Core Switch
+      │
+      ▼
+DHCP Server
